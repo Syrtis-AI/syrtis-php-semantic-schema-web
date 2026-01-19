@@ -1,0 +1,31 @@
+{
+  "name": "syrtis/php-client",
+  "description": "List of JSON schema used to describe basc web elements",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Syrtis",
+      "email": "contact@syrtis.ai"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "guzzlehttp/guzzle": "^7.8",
+    "wexample/php-api": "1.0.86",
+    "syrtis/php-json-schema-helper": "^0.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "SyrtisSemanticSchemaWeb\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "SyrtisSemanticSchemaWeb\\Tests\\": "tests/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "version": "0.0.1"
+}
