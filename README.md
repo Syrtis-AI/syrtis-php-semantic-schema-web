@@ -1,8 +1,8 @@
-# syrtis/php-client
+# syrtis/php-semantic-schema-web
 
-Version: 0.0.12
+Version: 0.0.2
 
-PHP client library for interacting with Syrtis services and APIs.
+List of JSON schema used to describe basc web elements
 
 ## Table of Contents
 

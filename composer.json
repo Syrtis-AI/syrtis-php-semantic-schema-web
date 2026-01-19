@@ -1,5 +1,5 @@
 {
-  "name": "syrtis/php-client",
+  "name": "syrtis/php-semantic-schema-web",
   "description": "List of JSON schema used to describe basc web elements",
   "type": "library",
   "license": "MIT",
@@ -27,5 +27,5 @@
   },
   "minimum-stability": "stable",
   "prefer-stable": true,
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
