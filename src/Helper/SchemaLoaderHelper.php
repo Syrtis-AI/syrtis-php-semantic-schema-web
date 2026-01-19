@@ -1,8 +1,8 @@
 <?php
 
-namespace Wexample\SymfonySemanticSchemaWeb\Helper;
+namespace Syrtis\SemanticSchemaWeb\Helper;
 
-use Wexample\SymfonySemanticSchemaWeb\Loader\SchemaWebLoader;
+use Syrtis\SemanticSchemaWeb\Loader\SchemaWebLoader;
 
 class SchemaLoaderHelper
 {

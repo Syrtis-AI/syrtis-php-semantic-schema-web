@@ -17,12 +17,12 @@
   },
   "autoload": {
     "psr-4": {
-      "SyrtisSemanticSchemaWeb\\": "src/"
+      "Syrtis\\SemanticSchemaWeb\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "SyrtisSemanticSchemaWeb\\Tests\\": "tests/"
+      "Syrtis\\SemanticSchemaWeb\\Tests\\": "tests/"
     }
   },
   "minimum-stability": "stable",

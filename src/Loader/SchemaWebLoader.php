@@ -1,8 +1,8 @@
 <?php
 
-namespace Wexample\SymfonySemanticSchemaWeb\Loader;
+namespace Syrtis\SemanticSchemaWeb\Loader;
 
-use Wexample\SymfonyJsonSchema\Loader\AbstractSchemaLoader;
+use Syrtis\JsonSchema\Loader\AbstractSchemaLoader;
 
 class SchemaWebLoader extends AbstractSchemaLoader
 {
