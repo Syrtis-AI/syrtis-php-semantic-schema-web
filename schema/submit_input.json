@@ -9,6 +9,9 @@
   "properties": {
     "type": {
       "const": "submit"
+    },
+    "icon": {
+      "type": ["string", "null"]
     }
   },
   "required": ["type", "name", "label"],
