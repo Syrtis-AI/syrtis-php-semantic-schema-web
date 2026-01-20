@@ -1,16 +1,16 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Syrtis-AI/syrtis-php-semantic-schema-web/tree/main/schema/hidden_input.json",
-  "title": "Hidden input field",
+  "$id": "https://github.com/Syrtis-AI/syrtis-php-semantic-schema-web/tree/main/schema/submit_input.json",
+  "title": "Submit input field",
   "type": "object",
   "allOf": [
     { "$ref": "https://github.com/Syrtis-AI/syrtis-php-semantic-schema-web/tree/main/schema/field_base.json" }
   ],
   "properties": {
     "type": {
-      "const": "hidden"
+      "const": "submit"
     }
   },
-  "required": ["type", "name"],
+  "required": ["type", "name", "label"],
   "unevaluatedProperties": false
 }
