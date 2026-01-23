@@ -12,8 +12,8 @@
   "require": {
     "php": ">=8.1",
     "guzzlehttp/guzzle": "^7.8",
-    "wexample/php-api": "1.0.86",
-    "syrtis/php-json-schema-helper": "0.0.3"
+    "wexample/php-api": "1.0.87",
+    "syrtis/php-json-schema-helper": "0.0.4"
   },
   "autoload": {
     "psr-4": {
@@ -27,5 +27,5 @@
   },
   "minimum-stability": "stable",
   "prefer-stable": true,
-  "version": "0.0.3"
+  "version": "0.0.4"
 }
