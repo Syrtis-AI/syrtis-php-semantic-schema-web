@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.com/schemas/field_base.json",
+  "$id": "https://github.com/Syrtis-AI/syrtis-php-semantic-schema-web/tree/main/schema/field_base.json",
   "title": "Base field options",
   "type": "object",
   "properties": {

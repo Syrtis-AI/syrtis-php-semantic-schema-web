@@ -1,10 +1,10 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.com/schemas/text_input.json",
+  "$id": "https://github.com/Syrtis-AI/syrtis-php-semantic-schema-web/tree/main/schema/text_input.json",
   "title": "Text input field",
   "type": "object",
   "allOf": [
-    { "$ref": "https://example.com/schemas/field_base.json" }
+    { "$ref": "https://github.com/Syrtis-AI/syrtis-php-semantic-schema-web/tree/main/schema/field_base.json" }
   ],
   "properties": {
     "type": {
