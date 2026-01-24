@@ -1,6 +1,6 @@
 # syrtis/php-semantic-schema-web
 
-Version: 0.0.5
+Version: 0.0.6
 
 List of JSON schema used to describe basc web elements
 
