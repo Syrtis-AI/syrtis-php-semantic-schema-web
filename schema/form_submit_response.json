@@ -51,6 +51,12 @@
         }
       },
       "required": ["url"]
+    },
+    "translations": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
     }
   },
   "required": ["ok", "form"]
