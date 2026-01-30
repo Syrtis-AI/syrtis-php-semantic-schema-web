@@ -14,6 +14,13 @@
       "type": "integer",
       "minimum": 1
     },
+    "max_rows": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "auto_resize": {
+      "type": "boolean"
+    },
     "cols": {
       "type": "integer",
       "minimum": 1
