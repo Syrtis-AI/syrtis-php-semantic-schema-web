@@ -1,6 +1,6 @@
 # php_semantic_schema_web
 
-Version: 0.0.18
+Version: 0.0.19
 
 List of JSON schema used to describe basc web elements
 
